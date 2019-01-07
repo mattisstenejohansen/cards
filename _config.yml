@@ -8,8 +8,8 @@
 # Site settings
 title: CIS CyberSec
 email: mattis.s@cisstudent.no
-description: > # this means to ignore newlines until "baseurl:"
-CIS CyberSec is a cyber security initiative at CIS.  
+description: CIS CyberSec is a cyber security initiative at CIS.   > # this means to ignore newlines until "baseurl:"
+
   
 baseurl: "/ciscybersec" # the subpath of your site, e.g. /blog
 url: "http://webjeda.com" # the base hostname & protocol for your site
